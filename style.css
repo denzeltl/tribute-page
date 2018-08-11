@@ -51,7 +51,7 @@
 }
 
 #content {
-    padding: 30px 30px 50px;
+    padding: 30px;
     background-color: rgb(236, 231, 223);
 }
 
@@ -89,12 +89,16 @@ a:hover {
     text-decoration: underline;
 }
 
+#footer {
+    padding: 30px 30px 50px;
+    background-color: rgb(231, 226, 216);
+}
+
 blockquote {
-    margin-top: 30px;
     font-style: italic;
+    margin-bottom: 30px;
 }
 
 #content > h3 {
     font-size: 18px;
-    margin-top: 30px;
 }
