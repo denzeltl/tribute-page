@@ -10,4 +10,4 @@ ___
 
 ## Objective:
 
-- Build a website that is functionally similar to [this](https://codepen.io/freeCodeCamp/full/zNqgVx).
+- Build a website that is functionally similar to [this](https://codepen.io/freeCodeCamp/full/zNqgVx). 
